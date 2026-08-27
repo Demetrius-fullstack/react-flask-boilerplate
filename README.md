@@ -12,7 +12,7 @@ This boilerplate uses React 16, Redux 4, Webpack 4, Python 3.7.1, PostgreSQL and
 Clone repository:
 
 ```
-git clone https://github.com/Demetrius-fullstack/react-flask-boilerplate.git
+git clone https://github.com/justinsmith-dev/react-flask-boilerplate.git
 
 cd react-flask-boilerplate
 ```
